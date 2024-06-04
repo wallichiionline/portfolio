@@ -1,0 +1,88 @@
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header Styles */
+.header {
+    text-align: center;
+    background-color: #48055c;
+    color: #fff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+/* Banner Styles */
+.banner {
+    /* Add your banner image or background properties here */
+    /* Example: background-image: url('banner.jpg'); */
+    height: 200px; /* Adjust height as needed */
+}
+
+/* About Me Section Styles */
+.about {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about h1 {
+    font-size: 24px;
+}
+
+.about p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Work Section Styles */
+.work {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.work h1 {
+    font-size: 24px;
+}
+
+.work p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Contact Me Section Styles */
+.contact {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact h1 {
+    font-size: 24px;
+}
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact li {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+/* Link Styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
