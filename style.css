@@ -89,16 +89,40 @@ a:hover {
 
 .logo {
     width: 15%;
-    float: left;
     margin-left: 20px;
     vertical-align: middle;
-
 }
 
 .navbar {
     background-color: #ce86f0;
+    list-style-type: none;
+    overflow: hidden;
 }
 
 .navitem {
-    display: inline;
+    float: left;
+}
+
+.navitem a {
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.img-work {
+    width: 500px;
+}
+
+.table {
+    margin: 0px auto;
+}
+
+.me {
+    margin: 0px auto;
+    width: 500px;
+    display: block;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
 }
